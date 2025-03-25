@@ -1,13 +1,13 @@
 {
-  "name": "kodex-server",
+  "name": "egg-farm-api",
   "version": "1.0.0",
-  "description": "A simple server",
+  "description": "A simple egg farm backend API written in Node.js",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "node:dev": "node --watch index.js"
   },
-  "author": "",
+  "author": "noahweasley",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
